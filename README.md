@@ -1,1 +1,1 @@
-# pythagoreanttriplet
+# pythagoreantriplet
